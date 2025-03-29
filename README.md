@@ -34,4 +34,4 @@
 
 ## Support
 
-Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the process or send a message directly to a specialist in the platform chat.
+Ssend a message directly to a specialist in the platform chat.

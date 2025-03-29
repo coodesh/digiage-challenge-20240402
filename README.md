@@ -34,4 +34,4 @@
 
 ## Support
 
-Ssend a message directly to a specialist in the platform chat.
+Send a message directly to a specialist in the platform chat.
